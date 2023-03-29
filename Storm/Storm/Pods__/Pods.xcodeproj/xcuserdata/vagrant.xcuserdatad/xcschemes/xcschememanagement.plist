@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-Storm.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-StormTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-StormUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>WWCalendarTimeSelector-WWCalendarTimeSelectorStoryboardBundle.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>WWCalendarTimeSelector.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2357C52D8A6E9E47E923A204149C3C38</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>541EE0212C3C0627D3490A61858C3221</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7443BE51336A188E8A55DD4475647DA3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A97978BAB5C6770A1B431AD1FC1990EE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9CA78EF93DAB2CC9F8EBC4B146DCC1F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
